@@ -1,0 +1,31 @@
+.table-cart {
+  margin: auto auto;
+  font-size: 20px;
+  margin-top: 60px;
+}
+
+.table-cart img {
+  width: 50px;
+}
+.table-cart td {
+  padding: 20px;
+}
+
+.table-cart .td-left {
+  text-align: left;
+}
+
+.sum {
+  font-size: 20px;
+  font-weight: 600;
+  text-align: center;
+}
+
+.Cleare {
+  margin: 20px 40px 40px 0;
+}
+
+.Congrat {
+  color: red;
+  font-size: 26px;
+}

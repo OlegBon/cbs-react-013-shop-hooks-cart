@@ -1,0 +1,13 @@
+.Cart {
+  text-align: right;
+}
+.Cart .img-cart {
+  width: 80px;
+  margin: 50px 50px 0 50px;
+  opacity: 0.8;
+}
+
+.Cart .img-cart:hover {
+  opacity: 1;
+  cursor: pointer;
+}
